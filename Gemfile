@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.1'
 # Use postgresql as DDD database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as tDDDhe app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 
